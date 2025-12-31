@@ -13,8 +13,8 @@
 
 // "Plate" here could also mean a sharpening stone. 
 plateHeight = 2.4;
-plateWidth  = 63.2;
-plateLength = 152.3;
+plateWidth  = 63.5;
+plateLength = 152.5;
 
 
 
